@@ -1,0 +1,13 @@
+.tab{
+    background-color: rgb(212, 212, 212);
+    padding: 30px;
+    /* width: 500px; */
+    /* margin-left: 50px; */
+}
+.tab h1{
+    font-size: 40px;
+    margin: 10px 0;
+}
+.tab img{
+    width: 50%;
+}

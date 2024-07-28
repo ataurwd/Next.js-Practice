@@ -1,0 +1,22 @@
+.boxCard{
+    background-color: aliceblue;
+    padding: 40px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+.btn1 {
+    background: none;
+    font-size: 13px;
+    margin: 22px 0 10px 0;
+}
+.btnDiv {
+    display: flex;
+    justify-content: space-between;
+}
+.btn2 {
+    background-color: darkblue;
+    color: white;
+    padding: 10px 15px;
+    margin-top: 20px;
+    border-radius: 23px;
+}
